@@ -1,0 +1,15 @@
+.action-icons ul{
+	margin: 0;
+	padding: 0;
+}
+.action-icons ul li{
+	display: inline;
+	margin: 0 5px;
+}
+.action-icons ul li a .fa-edit{
+	color: green;
+	
+}
+.action-icons ul li a .fa-trash{
+	color: red;
+}
